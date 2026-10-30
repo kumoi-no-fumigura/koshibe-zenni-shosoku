@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/koshibe-zenni-shosoku",
  "yomi": "こしべのぜんにしょうそく",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（消息）",
+  "era": "建長年間（1250年代）",
+  "author": "俊成卿女（越部禅尼）",
+  "desc": "『続後撰集』を贈られた俊成卿女が、晩年に播磨の越部から撰者為家に送った手紙。三代集から千載・新古今までと比べてこの集を評する。頓阿の奥書がある。"
+ },
  "editions": [
   {
    "pid": "1879486",
